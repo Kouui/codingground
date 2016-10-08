@@ -2,6 +2,8 @@
 #include <stdlib.h>
 /*
 a pointer is a variable whose value is the address of another variable 
+&variable: gives the address of the value.
+*pointer: used to declare pointer and to give the value of a pointer.
 */
 int main()
 {
