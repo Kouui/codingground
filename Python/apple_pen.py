@@ -9,4 +9,4 @@ mystr=[str1,str2,str3,str4]
 
 for index in range(len(mystr)):
        print (mystr[index])
-        time.sleep(3)  # Delay for 3 sec 
+       time.sleep(3)  # Delay for 3 sec 
